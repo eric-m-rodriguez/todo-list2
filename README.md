@@ -1,12 +1,42 @@
-# React + Vite
+# todo list two
+Respository for my Code the Dream React Course (part two) app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Description 
+This simple, single-page react app is built with React and Vite. This app currently allows you to view a list of todo items. 
 
-Currently, two official plugins are available:
+[todo-list2](https://github.com/eric-m-rodriguez/todo-list2)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation Instructions
+1. Clone the repository:
 
-## Expanding the ESLint configuration
+```bash 
+`git clone https:github.com/eric-m-rodriguez/todo-list2.git`
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. Run the Development Server
+Run this command in the project directory:
+`npm run dev`
+
+3. Open browser and navigate to: 
+`http://localhost.5173`
+
+## Technologies Used
+- React
+- Vite 
+- Javascript
+- HTML
+- CSS
+
+## Author 
+Eric Rodriguez
+
+## License 
+
+Copyright © 2025 Eric Rodriguez
+
+This project is licensed under the terms of the MIT license.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
